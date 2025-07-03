@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif !important;
+}
+
+.faq {
+  color: #111111;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.faq:hover {
+  color: #eb4b38;
+}
